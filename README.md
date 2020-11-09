@@ -2,8 +2,8 @@
 Using the gendev toolchain.
 
 ## Requirements
-- texinfo
-- openjdk-8-jdk
+texinfo
+openjdk-8-jdk
 
 ## Usage
 `make setup` - install the required build tools from the web (gendev atm.)
