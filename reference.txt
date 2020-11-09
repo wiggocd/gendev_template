@@ -1,0 +1,7 @@
+https://github.com/kubilus1/gendev
+
+https://github.com/kubilus1/gendev/tree/master/examples/3d_example
+
+https://gist.github.com/lukechilds/a83e1d7127b78fef38c2914c4ececc3c
+
+https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8
