@@ -1,4 +1,4 @@
-# Sega Mega Drive / Genesis Programming Project Prototype
+# Sega Mega Drive / Genesis Programming Template
 Using the gendev toolchain.
 
 ## Requirements
