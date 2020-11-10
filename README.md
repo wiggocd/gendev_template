@@ -6,7 +6,7 @@ Using the gendev toolchain.
 `texinfo openjdk-8-jdk`
 
 ## Usage
-`make setup` - install the required build tools from the web
+`make setup` - install the required build tools
 
 `make` - build the program
 
